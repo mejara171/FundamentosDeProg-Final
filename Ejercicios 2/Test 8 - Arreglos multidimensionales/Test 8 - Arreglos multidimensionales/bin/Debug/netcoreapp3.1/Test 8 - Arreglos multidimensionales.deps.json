@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test 8 - Arreglos multidimensionales/1.0.0": {
+        "runtime": {
+          "Test 8 - Arreglos multidimensionales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test 8 - Arreglos multidimensionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.exe
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.deps.json
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.json
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\Gamer\OneDrive - UPB\repos\Lógica de Programación - Cap 4\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.genruntimeconfig.cache

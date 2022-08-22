@@ -1,0 +1,26 @@
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.exe
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.deps.json
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.runtimeconfig.json
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.dll
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.pdb
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.AssemblyInfo.cs
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.dll
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.pdb
+C:\Users\untac\source\repos\Introducción C#\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.genruntimeconfig.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.exe
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.deps.json
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.runtimeconfig.json
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.runtimeconfig.dev.json
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.dll
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\bin\Debug\netcoreapp3.1\Test 6 - Herencia.pdb
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.AssemblyInfo.cs
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.dll
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.pdb
+C:\Users\untac\source\repos\1. Código Facilito\Test 6 - Herencia\Test 6 - Herencia\obj\Debug\netcoreapp3.1\Test 6 - Herencia.genruntimeconfig.cache

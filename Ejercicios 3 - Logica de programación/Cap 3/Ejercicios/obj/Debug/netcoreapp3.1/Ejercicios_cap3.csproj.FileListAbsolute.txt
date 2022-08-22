@@ -1,0 +1,26 @@
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.AssemblyInfo.cs
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicios_cap3.exe
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicios_cap3.deps.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicios_cap3.runtimeconfig.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicios_cap3.runtimeconfig.dev.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicios_cap3.dll
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicios_cap3.pdb
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.dll
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.pdb
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicios_cap3.genruntimeconfig.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios_cap3.exe
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios_cap3.deps.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios_cap3.runtimeconfig.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios_cap3.runtimeconfig.dev.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios_cap3.dll
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios_cap3.pdb
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.AssemblyInfo.cs
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.dll
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.pdb
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicios Cap 3\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios_cap3.genruntimeconfig.cache

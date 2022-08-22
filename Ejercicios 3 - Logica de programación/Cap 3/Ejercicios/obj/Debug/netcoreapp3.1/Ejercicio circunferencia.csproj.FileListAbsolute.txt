@@ -1,0 +1,13 @@
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.AssemblyInfo.cs
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicio circunferencia.exe
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicio circunferencia.deps.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicio circunferencia.runtimeconfig.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicio circunferencia.runtimeconfig.dev.json
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicio circunferencia.dll
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\bin\Debug\netcoreapp3.1\Ejercicio circunferencia.pdb
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.dll
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.pdb
+C:\Users\untac\source\repos\3. Lógica de Programación\Ejercicio circunferencia\Ejercicio circunferencia\obj\Debug\netcoreapp3.1\Ejercicio circunferencia.genruntimeconfig.cache

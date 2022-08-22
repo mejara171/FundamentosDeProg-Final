@@ -1,0 +1,13 @@
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\bin\Debug\netcoreapp3.1\Test 8 - Arreglos.exe
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\bin\Debug\netcoreapp3.1\Test 8 - Arreglos.deps.json
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\bin\Debug\netcoreapp3.1\Test 8 - Arreglos.runtimeconfig.json
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\bin\Debug\netcoreapp3.1\Test 8 - Arreglos.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\bin\Debug\netcoreapp3.1\Test 8 - Arreglos.dll
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\bin\Debug\netcoreapp3.1\Test 8 - Arreglos.pdb
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.AssemblyInfo.cs
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.dll
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.pdb
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos\Test 8 - Arreglos\obj\Debug\netcoreapp3.1\Test 8 - Arreglos.genruntimeconfig.cache

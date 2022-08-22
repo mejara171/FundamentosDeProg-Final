@@ -1,0 +1,26 @@
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.exe
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.deps.json
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.runtimeconfig.json
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.dll
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.pdb
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.AssemblyInfo.cs
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.dll
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.pdb
+C:\Users\untac\source\repos\Introducción C#\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.genruntimeconfig.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.exe
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.deps.json
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.runtimeconfig.json
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.runtimeconfig.dev.json
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.dll
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\bin\Debug\netcoreapp3.1\Test 7 - Clases abstactas.pdb
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.AssemblyInfo.cs
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.dll
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.pdb
+C:\Users\untac\source\repos\1. Código Facilito\Test 7 - Clases abstactas\Test 7 - Clases abstactas\obj\Debug\netcoreapp3.1\Test 7 - Clases abstactas.genruntimeconfig.cache

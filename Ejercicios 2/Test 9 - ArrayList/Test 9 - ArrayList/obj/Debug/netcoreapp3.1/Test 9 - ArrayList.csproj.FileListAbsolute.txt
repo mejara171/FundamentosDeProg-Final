@@ -1,0 +1,13 @@
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\bin\Debug\netcoreapp3.1\Test 9 - ArrayList.exe
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\bin\Debug\netcoreapp3.1\Test 9 - ArrayList.deps.json
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\bin\Debug\netcoreapp3.1\Test 9 - ArrayList.runtimeconfig.json
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\bin\Debug\netcoreapp3.1\Test 9 - ArrayList.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\bin\Debug\netcoreapp3.1\Test 9 - ArrayList.dll
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\bin\Debug\netcoreapp3.1\Test 9 - ArrayList.pdb
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.AssemblyInfo.cs
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.dll
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.pdb
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.genruntimeconfig.cache
+C:\Users\untac\source\repos\Código Facilito\Test 9 - ArrayList\Test 9 - ArrayList\obj\Debug\netcoreapp3.1\Test 9 - ArrayList.csprojAssemblyReference.cache

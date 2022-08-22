@@ -1,0 +1,12 @@
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\bin\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.exe
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\bin\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.deps.json
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\bin\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.runtimeconfig.json
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\bin\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\bin\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.dll
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\bin\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.pdb
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\obj\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\obj\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.AssemblyInfo.cs
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\obj\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\obj\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.dll
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\obj\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.pdb
+C:\Users\untac\source\repos\Código Facilito\Test 8 - Arreglos multidimensionales\Test 8 - Arreglos multidimensionales\obj\Debug\netcoreapp3.1\Test 8 - Arreglos multidimensionales.genruntimeconfig.cache
