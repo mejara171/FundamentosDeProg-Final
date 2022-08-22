@@ -1,0 +1,7 @@
+C:\Users\untac\source\repos\Examen2\Examen2\bin\Debug\Examen2.exe.config
+C:\Users\untac\source\repos\Examen2\Examen2\bin\Debug\Examen2.exe
+C:\Users\untac\source\repos\Examen2\Examen2\bin\Debug\Examen2.pdb
+C:\Users\untac\source\repos\Examen2\Examen2\obj\Debug\Examen2.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Examen2\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Examen2\Examen2\obj\Debug\Examen2.exe
+C:\Users\untac\source\repos\Examen2\Examen2\obj\Debug\Examen2.pdb

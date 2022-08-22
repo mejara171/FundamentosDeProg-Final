@@ -1,0 +1,7 @@
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\bin\Debug\Simulacro 2.exe.config
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\bin\Debug\Simulacro 2.exe
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\bin\Debug\Simulacro 2.pdb
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\obj\Debug\Simulacro 2.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\obj\Debug\Simulacro 2.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\obj\Debug\Simulacro 2.exe
+C:\Users\untac\source\repos\Simulacro 2\Simulacro 2\obj\Debug\Simulacro 2.pdb

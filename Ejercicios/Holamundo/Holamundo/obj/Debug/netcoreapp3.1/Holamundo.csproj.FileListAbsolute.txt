@@ -1,0 +1,13 @@
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\bin\Debug\netcoreapp3.1\Holamundo.exe
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\bin\Debug\netcoreapp3.1\Holamundo.deps.json
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\bin\Debug\netcoreapp3.1\Holamundo.runtimeconfig.json
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\bin\Debug\netcoreapp3.1\Holamundo.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\bin\Debug\netcoreapp3.1\Holamundo.dll
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\bin\Debug\netcoreapp3.1\Holamundo.pdb
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.AssemblyInfo.cs
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.dll
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.pdb
+C:\Users\untac\source\repos\Intro Prog\Holamundo\Holamundo\obj\Debug\netcoreapp3.1\Holamundo.genruntimeconfig.cache

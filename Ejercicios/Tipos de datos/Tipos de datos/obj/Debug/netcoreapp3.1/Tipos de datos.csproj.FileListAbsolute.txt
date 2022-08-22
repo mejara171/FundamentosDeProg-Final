@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\bin\Debug\netcoreapp3.1\Tipos de datos.exe
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\bin\Debug\netcoreapp3.1\Tipos de datos.deps.json
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\bin\Debug\netcoreapp3.1\Tipos de datos.runtimeconfig.json
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\bin\Debug\netcoreapp3.1\Tipos de datos.runtimeconfig.dev.json
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\bin\Debug\netcoreapp3.1\Tipos de datos.dll
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\bin\Debug\netcoreapp3.1\Tipos de datos.pdb
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.dll
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.pdb
+C:\Users\Gamer\OneDrive - UPB\Documents\UPB\Semestre 4\Fundamentos en Programación\repos\Tipos de datos\Tipos de datos\obj\Debug\netcoreapp3.1\Tipos de datos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\bin\Debug\netcoreapp3.1\Actividad - Arreglos.exe
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\bin\Debug\netcoreapp3.1\Actividad - Arreglos.deps.json
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\bin\Debug\netcoreapp3.1\Actividad - Arreglos.runtimeconfig.json
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\bin\Debug\netcoreapp3.1\Actividad - Arreglos.runtimeconfig.dev.json
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\bin\Debug\netcoreapp3.1\Actividad - Arreglos.dll
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\bin\Debug\netcoreapp3.1\Actividad - Arreglos.pdb
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.csprojAssemblyReference.cache
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.AssemblyInfoInputs.cache
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.AssemblyInfo.cs
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.dll
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.pdb
+C:\Users\untac\source\repos\Intro Prog\Actividad - Arreglos\Actividad - Arreglos\obj\Debug\netcoreapp3.1\Actividad - Arreglos.genruntimeconfig.cache
